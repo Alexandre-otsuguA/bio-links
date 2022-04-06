@@ -1,4 +1,4 @@
-export default (props: React.SVGProps<SVGSVGElement>) => (
+const IClashRoyale = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width='1.4em'
     height='1.4em'
@@ -63,3 +63,5 @@ export default (props: React.SVGProps<SVGSVGElement>) => (
     <path fill='#f57f17' d='m24 4.5 7.667 5.5-1 2L24 7z' />
   </svg>
 );
+
+export default IClashRoyale;

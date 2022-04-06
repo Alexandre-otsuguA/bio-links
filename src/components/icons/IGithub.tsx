@@ -1,4 +1,4 @@
-export default (props: React.SVGProps<SVGSVGElement>) => (
+const IGithub = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width='1em'
     height='1em'
@@ -13,3 +13,5 @@ export default (props: React.SVGProps<SVGSVGElement>) => (
     />
   </svg>
 );
+
+export default IGithub;

@@ -1,4 +1,4 @@
-export default (props: React.SVGProps<SVGSVGElement>) => (
+export const IInstagram = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width='1em'
     height='1em'
@@ -20,3 +20,5 @@ export default (props: React.SVGProps<SVGSVGElement>) => (
     </defs>
   </svg>
 );
+
+export default IInstagram;
