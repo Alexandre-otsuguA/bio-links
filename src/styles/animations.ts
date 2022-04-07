@@ -17,7 +17,3 @@ export const moveGradient = keyframes({
   '50%': { backgroundPosition: '100% 50%' },
   '100%': { backgroundPosition: '0% 50%' }
 });
-
-export const fadeIn = keyframes({
-  to: { opacity: 1 }
-});

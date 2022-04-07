@@ -9,9 +9,6 @@ export const root = styled('div', {
   gridGap: '4rem',
   minH: '100vh',
   pa: '6.4rem 3.8rem',
-
-  opacity: 0,
-  animation: `${animate.fadeIn()} .4s both`
 });
 
 export const header = styled('header', {
