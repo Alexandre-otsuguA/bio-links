@@ -39,7 +39,7 @@ export const Link = ({ children, to, ...props }: LinkProps) => {
 const Home = ({
   profile = {
     avatarURL: 'https://github.com/Alexandre-otsuguA.png',
-    name: 'aleaugusto.dev',
+    name: 'ALEAUGUSTO',
     description: `
     Farei do editor uma arena de batalhas épicas entre mim e os bugs,
     cujo único objetivo é alcançar o próximo nível no estilo while(true).
